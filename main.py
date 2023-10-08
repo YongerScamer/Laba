@@ -1,1 +1,2 @@
-print("Hello Ulitin Boris Igorevich")
+while 1:
+    print("Hello Ulitin Boris Igorevich")
